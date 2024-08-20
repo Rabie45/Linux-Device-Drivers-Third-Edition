@@ -1,0 +1,1 @@
+cmd_/home/rabi3/Desktop/device/ch2/Module.symvers := sed 's/\.ko$$/\.o/' /home/rabi3/Desktop/device/ch2/modules.order | scripts/mod/modpost -m -a  -o /home/rabi3/Desktop/device/ch2/Module.symvers -e -i Module.symvers   -T -

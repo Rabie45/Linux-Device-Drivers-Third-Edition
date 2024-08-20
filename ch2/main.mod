@@ -1,0 +1,2 @@
+/home/rabi3/Desktop/device/ch2/main.o
+

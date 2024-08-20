@@ -1,0 +1,1 @@
+cmd_/home/rabi3/Desktop/device/ch2/main.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/rabi3/Desktop/device/ch2/main.ko /home/rabi3/Desktop/device/ch2/main.o /home/rabi3/Desktop/device/ch2/main.mod.o;  true
